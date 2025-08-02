@@ -6,3 +6,4 @@
 📩 Email para contato: murilomilanezr@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esflingos)](https://github.com/Esflingos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esflingos)](https://github.com/Esflingos)
