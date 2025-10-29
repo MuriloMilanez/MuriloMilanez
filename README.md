@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">🌱 Cursando Ciências da Computação 💻 Estudando Python 😊 Pronomes: Ele/Dele 📩 Email para contato: murilomilanezr@gmail.com</h5>
+<h5 align="left">🌱 Cursando Ciências da Computação 💻 Estudando HTML, CSS e JavaScript 😊 Pronomes: Ele/Dele 📩 Email para contato: murilomilanezr@gmail.com</h5>
 
 ###
 
